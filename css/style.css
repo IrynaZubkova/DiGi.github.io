@@ -950,7 +950,7 @@
         display: none;
     }
 
-    .block6-text-mobile {
+   .block6-text-mobile {
         position: absolute;
         font-family: 'Roboto', sans-serif;
         font-style: normal;
@@ -959,7 +959,8 @@
         color: #9B9B9B;
         width: 280px;
         height: 325px;
-        left: 20px;
+        left: 50%;
+        transform: translateX(-50%);
         top: 390px;
         font-size: 16px;
         line-height: 18px;
