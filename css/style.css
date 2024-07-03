@@ -1501,6 +1501,7 @@
     background: #F9F6E5;
 }
 .button-up {
+    text-decoration: none;
     background: none;
     border: none;
     /* BACK TO TOP */
@@ -1534,6 +1535,7 @@
     .button-up {
         width: 143px;
         height: 19px;
+        text-align: center;
         left: 50%;
         transform: translateX(-50%);
         top: 56px;
